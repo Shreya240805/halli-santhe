@@ -78,7 +78,7 @@ git clone https://github.com/YOUR_USERNAME/halli-santhe.git
 5.Sync Gradle files
 6.Run the application
 
-##🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 Android app development using Kotlin
 Firebase integration (Firestore + Storage)
 RecyclerView implementation
@@ -86,14 +86,14 @@ Real-time data handling
 UI/UX design using Material Components
 Git & GitHub version control
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Chat between buyer and seller
 Payment gateway integration
 Wishlist feature
 Order tracking system
 Location-based product search
 
-##👨‍💻 Developer
+## 👨‍💻 Developer
 Shreya Madhusudan Santubal
 Android Developer Intern
 Halli Santhe Project
