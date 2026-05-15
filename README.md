@@ -69,8 +69,9 @@ In rural regions, small vendors lack access to digital platforms to sell their p
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/YOUR_USERNAME/halli-santhe.git
+
 2.Open in Android Studio
 3.Connect Firebase project
 4.Add google-services.json inside /app
