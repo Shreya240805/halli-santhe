@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saffron">#FF6B00</color>
+    <color name="saffron_light">#FF8C42</color>
+    <color name="saffron_dark">#CC5500</color>
+    <color name="terracotta">#C1440E</color>
+    <color name="emerald">#2D6A4F</color>
+    <color name="turmeric">#F4C430</color>
+    <color name="indigo_dye">#3D348B</color>
+    <color name="cream">#FFF8F0</color>
+    <color name="warm_white">#FFFDF7</color>
+    <color name="dark_brown">#3E1F00</color>
+    <color name="medium_brown">#7B4F2E</color>
+    <color name="light_brown">#D4A574</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="background">#FFF3E0</color>
+    <color name="divider">#FFE0B2</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="in_stock_green">#388E3C</color>
+    <color name="out_of_stock_red">#D32F2F</color>
+    <color name="fab_color">#FF6B00</color>
+    <color name="status_bar">#CC5500</color>
+</resources>

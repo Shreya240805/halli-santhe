@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_padding">12dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="product_image_height">180dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="text_title">16sp</dimen>
+    <dimen name="text_price">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
